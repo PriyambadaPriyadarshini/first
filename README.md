@@ -1,4 +1,4 @@
 # first
 This is my first Repository
 <br>
-Author-Priyambada Priyadarshini
+Author-Priyambada Ranasingh
